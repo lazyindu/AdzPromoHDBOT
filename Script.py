@@ -140,7 +140,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/xuzua)</code>
+<code>[Button Text](buttonurl:https://t.me/VijayDBot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -209,7 +209,7 @@ Name - {}
 """
     PLANS_TXT = """<b>👋 ʜᴇʏ {},
     
- <quote>🎖️ ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs:</quote>
+ >🎖️ ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs:
 
 ● <code>60₹</code> ➛ <u>ɢᴏʟᴅ ᴘʟᴀɴ</u>   » <code>91ᴅᴀʏꜱ</code>
 ● <code>120₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u>»<code>181ᴅᴀʏꜱ</code>

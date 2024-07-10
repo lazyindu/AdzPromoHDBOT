@@ -1814,7 +1814,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('♥️ Aʙᴏᴜᴛ', callback_data='about')
             ],[
             InlineKeyboardButton('Open settings', callback_data='openSettings'),
-            InlineKeyboardButton('Owner', url='https://telegram.me/xuzua')
+            InlineKeyboardButton('Owner', url='https://telegram.me/VijayDBot')
             ],[
             InlineKeyboardButton('🔐 Close', callback_data='close_data')
             ]]
