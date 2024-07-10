@@ -107,7 +107,6 @@ Here is the help for my COMMANDS."""
 
 """
     ABOUT_TXT = """✯ 𝕚𝕥𝕤❜𝕤 me: {}
-✯ OWNER: <a href=https://t.me/xuzua>🦋 Adz-Promo 🦋</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -116,11 +115,8 @@ Here is the help for my COMMANDS."""
 """
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 🎉PREMIUM REPO
-- 👑 Owner : <a href=https://t.me/xuzua>Adz-Promo</a> 
-
-<b>DEV:</b>
-- 🦋 <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 🦋"""
+- 🎉It's a PRIVATE Property
+"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Fɪʟᴛᴇʀ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜsᴇʀs ᴄᴀɴ sᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇs ғᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ LᴀᴢʏPʀɪɴᴇss ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴛʜᴀᴛ ᴋᴇʏᴡᴏʀᴅ ʜɪᴛs ᴛʜᴇ ᴍᴇssᴀɢᴇ
@@ -213,18 +209,16 @@ Name - {}
 """
     PLANS_TXT = """<b>👋 ʜᴇʏ {},
     
-🎖️ <u>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</u> :
+ <quote>🎖️ ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs:</quote>
 
-● <code>2₹</code> ➛<u>ʙʀᴏɴᴢᴇ ᴘʟᴀɴ</u>»<code>7ᴅᴀʏꜱ</code>
-● <code>~~10₹~~➛ 9₹</code>➛<u>ꜱɪʟᴠᴇʀ ᴘʟᴀɴ</u>»<code>31ᴅᴀʏꜱ</code>
-● <code>~~30₹~~➛ 23₹</code>➛<u>ɢᴏʟᴅ ᴘʟᴀɴ</u>»<code>91ᴅᴀʏꜱ</code>
-● <code>~~60₹~~➛ 49₹</code>➛<u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u>»<code>181ᴅᴀʏꜱ</code>
-● <code>~~120₹~~➛ 99₹</code>➛<u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u>»<code>366ᴅᴀʏꜱ</code>
+● <code>60₹</code> ➛ <u>ɢᴏʟᴅ ᴘʟᴀɴ</u>   » <code>91ᴅᴀʏꜱ</code>
+● <code>120₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u>»<code>181ᴅᴀʏꜱ</code>
+● <code>200₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u>» <code>366ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>lazydeveloper@ybl</code>
-📸 sᴄᴀɴ QR - <a href='https://telegra.ph/file/cd6c497f56f3915dc6363.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
+🆔 ᴜᴘɪ ɪᴅ - <code>Adznow@ybl</code>
+📸 sᴄᴀɴ QR - <a href='https://telegra.ph/file/02246ca21374fac702ebd.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ Pay</a>
 
-⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
+⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
     PROGRESS_BAR = """\n
